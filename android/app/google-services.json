@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837366075932",
+    "project_id": "mibarrioappproyect-333613",
+    "storage_bucket": "mibarrioappproyect-333613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837366075932:android:e054504a8fa6d95a4445d9",
+        "android_client_info": {
+          "package_name": "co.unbosuqe.edu.rapi_vecinos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837366075932-he6obqs3bhgkghkbnqog2s5scscij4cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqvKFRVZPRS_vw_qcbAcPC-AULPpu4q3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837366075932-he6obqs3bhgkghkbnqog2s5scscij4cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
